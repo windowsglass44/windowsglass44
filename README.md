@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello! I'm a tech enthusiast who knows HTML, CSS and JS (if anyone even sees this lol!). I'm interested in Windows beta builds, Longhorn, Whistler, and Neptune and I'm currently working on a project related to activity centers (see betawiki Microsoft Neptune page).
+
+@WindowsBetas44 on Betaarchive.com and Betawiki.net
+@Glasslover on my own forum (not very popular) check it out at osuiforums.pages.dev and on Winclassic.net
+@WindowsWallpaperFan444 on Windows Wallpaper Wiki.
+
+UNDER CONSTRUCTION
+©, ™ Microsoft Corp. All rights reserved. User interface is ™ and trade dress of Microsoft Corp.
+Windows® Codename "Longhorn"
+Evaluation Copy. 4050.private/lab06_demo.031022-1934
